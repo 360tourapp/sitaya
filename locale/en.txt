@@ -20,31 +20,53 @@ QuadHotspotPanoramaOverlayTextImage_39713CEE_0E97_21A4_419C_41EE1722987E.text = 
 
 ## Media
 
+### Audio
+audiores_17232EB8_336E_1A25_419F_7D267ABB2E5B.mp3Url = media/audio_10016AF5_3361_FA2F_41AA_7A00B175AAC4_en.mp3
+audiores_2D5CFAAC_3362_1A3D_41C5_1429F333D9C0.mp3Url = media/audio_24005BE1_33A3_FA24_4183_A9BC4BEA264F_en.mp3
+audiores_127D62E6_3362_2A2C_419E_57AE40DB65D3.mp3Url = media/audio_2405E79C_33A6_2A1C_41C7_BB4BC587917A_en.mp3
+audiores_127871E2_3362_2625_41AD_B1E34D2E7DC6.mp3Url = media/audio_2421055B_33A6_2E1B_41C5_A63B72DDDF93_en.mp3
+audiores_1249A566_3362_2E2D_41C1_3212D07606B3.mp3Url = media/audio_2429E2CE_33A6_2A7C_41C1_A3D1C5AF418D_en.mp3
+audiores_12452494_3362_2E16_41C8_732198E25669.mp3Url = media/audio_24325516_33A6_6FEC_41C9_E32CFC491371_en.mp3
+audiores_12711066_3362_262D_41B1_A9922C115FD9.mp3Url = media/audio_2436CC3E_33A1_FE1C_41B0_7DE8C4ACAB2A_en.mp3
+audiores_12436430_3362_2E25_415B_19933E98B4B8.mp3Url = media/audio_2437EAB7_33A6_1A2B_41C4_C36FC2597B31_en.mp3
+audiores_127A225A_3362_2A65_41B3_27B295B742F0.mp3Url = media/audio_246E98AF_33A6_663B_41B0_1DA95BB19692_en.mp3
+audiores_12406390_3362_2AE5_41BE_9E06943292CA.mp3Url = media/audio_247493EA_33A6_EA24_41BC_833BC7DF69A2_en.mp3
+audiores_124C4624_3362_2A2D_41BF_934A06359B64.mp3Url = media/audio_2B847F20_33A2_1A24_41C4_75A444202232_en.mp3
+audiores_2D5A5A20_3362_1A25_41B7_0775CA13FD5C.mp3Url = media/audio_2B84D549_33A2_2E64_4171_4A5EBC419DF3_en.mp3
+audiores_129F1F94_3362_3AEC_41A4_BA3622636B78.mp3Url = media/audio_2B93375E_33A2_EA1C_41B4_F96DD7B3C6F7_en.mp3
+audiores_2D599994_3362_26ED_4182_1F87DB9A7C82.mp3Url = media/audio_2B959CF3_33A2_7E24_41B2_5977F5D4B4E0_en.mp3
+audiores_12756138_3362_2625_41C4_EFA6821E343B.mp3Url = media/audio_2BAAFBE4_33A6_FA2C_41AC_FBE11C2F40E2_en.mp3
+audiores_2D58C8FE_3362_261D_41C5_E865CD1DC1A3.mp3Url = media/audio_2BC5B41F_33A2_2E1C_41C7_021B07CA953C_en.mp3
+audiores_2D5547A0_3362_2A25_41C1_D4CD05896099.mp3Url = media/audio_2BC93CCE_33A2_1E7D_41C7_60AE834DABC1_en.mp3
+audiores_2D560868_3362_2625_41AA_B11842C08E66.mp3Url = media/audio_2BCEAB51_33A2_1A67_41A7_53350C1025DD_en.mp3
+audiores_2D5496EC_3362_2A3D_41BA_65931D16704A.mp3Url = media/audio_2BF42E14_33A2_1DED_41C4_5D8E5D20BCD3_en.mp3
+
 ### Image
-imlevel_023923D3_0F75_F175_41A5_F1CC34C57B22.url = media/panorama_16FE7060_05B1_38B6_418B_8526A287BFB8_HS_8x2yv6pp_en.png
+imlevel_10FDC715_3362_2BEC_418A_0492BC48C242.url = media/panorama_16FE7060_05B1_38B6_418B_8526A287BFB8_HS_8x2yv6pp_en.png
 
 ### Title
 panorama_16C1328F_05B3_398A_4182_3B906EE68D62.label = Aula
-panorama_16C3250F_058E_F88A_4137_EB55D2E8B0F0.label = Balkon
-panorama_16FE3DFA_05B1_2B8A_4191_D846CE9F553A.label = Balkon
+panorama_16FD8FE2_05B1_E7BA_4193_DB1FAC7815F3.label = Balkon
 panorama_16FD4B1E_05B1_288A_4185_8B4099E01C3E.label = Balkon
 panorama_16FCE19E_05B1_1B8A_4172_F2B2B57DD00A.label = Balkon
-panorama_16FE5632_05B1_F89A_4196_125BF5362B9C.label = Balkon
 panorama_16FE14BC_05B1_198E_4175_FE11D021E90A.label = Balkon
-panorama_16FD8FE2_05B1_E7BA_4193_DB1FAC7815F3.label = Balkon
+panorama_16FE3DFA_05B1_2B8A_4191_D846CE9F553A.label = Balkon
+panorama_16C3250F_058E_F88A_4137_EB55D2E8B0F0.label = Balkon
+panorama_16FE5632_05B1_F89A_4196_125BF5362B9C.label = Balkon
+panorama_16FEE2E3_05B1_19BA_418A_973C559D741C.label = Front Office
 panorama_16FE5CD2_05B1_299A_4191_E46E92F14B12.label = Gerbang Sekolah
-panorama_16FDE577_05B1_389A_4169_E54EB2116F91.label = Gerbang Utama
 panorama_16FE4ED7_05B1_299A_4154_84886DFD3FA9.label = Gerbang Utama
-panorama_16FF3171_05B1_7896_4196_2B2AB8C827BD.label = Halaman
+panorama_16FDE577_05B1_389A_4169_E54EB2116F91.label = Gerbang Utama
 panorama_16FE7060_05B1_38B6_418B_8526A287BFB8.label = Halaman
+panorama_16FF3171_05B1_7896_4196_2B2AB8C827BD.label = Halaman
 panorama_16FDA34F_05B1_188A_4173_8135E77E82FA.label = Halaman Masjid
-panorama_16FFF1F7_05B1_3B9A_417C_97CC544710DE.label = Hall
 panorama_16FFCBAA_05B1_2F8A_4194_22BB132FBF00.label = Hall
+panorama_16FFF1F7_05B1_3B9A_417C_97CC544710DE.label = Hall
 panorama_16FE4B07_05B1_687A_4187_FB864EA057BB.label = Kelas 6A
 panorama_16FE6C6D_05B1_E88E_4179_7F900B2FA8CA.label = Lab. Komputer
 panorama_16FE4ECA_05B1_698A_4179_9EE4F3C9AE81.label = Lapangan
-panorama_16FFD53F_05B1_188A_4188_35F32C6367D7.label = Lapangan
 panorama_16C3AAFE_058F_298A_4163_FFCC07C471FA.label = Lapangan
+panorama_16FFD53F_05B1_188A_4188_35F32C6367D7.label = Lapangan
 panorama_16FF1808_05B1_6876_4188_A6A2C9F9E278.label = Lapangan
 panorama_16FF8516_05B1_189A_4186_E3F0D33A3900.label = Perpustakaan
 panorama_16C3ABB1_058F_2F96_4183_4AD0887562F1.label = Ruang Kelas 1A
@@ -53,23 +75,22 @@ panorama_16C430E6_058F_19BA_4187_5A03F93F2807.label = Ruang Kelas 3A
 panorama_16FEC8F2_05B3_299A_417E_12EB25EA42A8.label = Ruang Kelas 4B
 panorama_16FEBC40_05B3_28F6_4184_628926FFAD24.label = Ruang Kelas 5A
 panorama_16FEB9CC_05B1_2B8E_413C_091E2880DF28.label = Ruang Kepala Sekolah
-panorama_16FEE2E3_05B1_19BA_418A_973C559D741C.label = Ruang Tata Usaha
 panorama_16C15F9B_05B3_2789_418E_6E6C6454C8D3.label = Studio
 panorama_16FE5785_05B1_387E_417B_4D56F85E2BF3.label = Tangga
-panorama_16FE69AC_05B1_EB8E_4154_2C97BD2F1A54.label = Tangga
+panorama_3D8DA4D2_336E_2E65_41C2_479BA23AEE94.label = Tangga
+panorama_16C37205_058F_187E_414D_C725FFCEDD7C.label = Tangga
 panorama_16C38ECD_058F_298E_417D_B2FC6EFD1335.label = Tangga
 panorama_16FDB7B2_05B1_679A_415E_9EC58B51F1D8.label = Tangga
-panorama_16C37205_058F_187E_414D_C725FFCEDD7C.label = Tangga
 panorama_16C43D4B_058F_288A_415D_A4B893E490E0.label = Teras
-panorama_16FF7F7A_05B2_E88A_4161_ED33ABDE79F2.label = Teras
-panorama_16C44566_058F_78BA_417C_5E8F963E44A1.label = Teras
 panorama_16C45856_058F_689A_4181_C5FDCEDFD232.label = Teras
-panorama_16FF4905_05B2_E87E_4184_85A20B97199A.label = Teras
+panorama_16C44566_058F_78BA_417C_5E8F963E44A1.label = Teras
 panorama_16FF72AC_05B2_F98E_4191_982525B59A7A.label = Teras
+panorama_16FF7F7A_05B2_E88A_4161_ED33ABDE79F2.label = Teras
+panorama_16FF4905_05B2_E87E_4184_85A20B97199A.label = Teras
 panorama_16FE41CA_05B1_1B8A_418C_DDC18E49041D.label = Teras
 panorama_16FF6BC4_05B2_EFFE_4193_F1E89CB2670B.label = Toko
-panorama_16FF984D_05B1_288E_4189_85B5E4D03B94.label = Unit Kesehatan Sekolah
 panorama_16FFBEA6_05B1_29BA_4163_B5D7E3CC1A7F.label = Unit Kesehatan Sekolah
+panorama_16FF984D_05B1_288E_4189_85B5E4D03B94.label = Unit Kesehatan Sekolah
 
 ## Skin
 
@@ -92,7 +113,7 @@ Image_7DB3C373_7065_34DE_41BA_CF5206137DED_mobile.url = skin/Image_7DB3C373_7065
 ### Multiline Text
 HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="line-height:140%;text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Oswald';"><I>SDIT Ahmad Yani</I></SPAN></SPAN></DIV><DIV STYLE="line-height:140%;text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Oswald';"><I>Jl. Kahuripan 12 Malang</I></SPAN></SPAN></DIV><DIV STYLE="line-height:140%;text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://sditahmadyani.sch.id/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Oswald';"><I>https://sditahmadyani.sch.id/</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="line-height:140%;text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="mailto:email@sditahmadyani.sch.id" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Oswald';"><I>email@sditahmadyani.sch.id</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="line-height:140%;text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="tel:+62341353348" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Oswald';"><I>(0341) 353-348</I></SPAN></A></SPAN></SPAN></DIV></div>
 HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald';"><I>SDIT Ahmad Yani</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald';"><I>Jl. Kahuripan 12 Malang</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://sditahmadyani.sch.id/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald';"><I>https://sditahmadyani.sch.id/</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="mailto:email@sditahmadyani.sch.id" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald';"><I>email@sditahmadyani.sch.id</I></SPAN></A></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="tel:+62341353348" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald';"><I>(0341) 353-348</I></SPAN></A></SPAN></SPAN></DIV></div>
-HTMLText_33BF4894_0E71_2065_4169_60654CD966ED.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:right;font-size:34px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:34px;font-family:'Oswald';"><I>{{title}}</I></SPAN></SPAN></DIV></div>
+HTMLText_33BF4894_0E71_2065_4169_60654CD966ED.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 3px rgba(0,0,0,0.6);text-align:right;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:40px;font-family:'Oswald';"><I>{{title}}</I></SPAN></SPAN></DIV></div>
 
 ### Tooltip
 IconButton_EE9FBAB2_E389_8E06_41D7_903ABEDD153A.toolTip = Enable/disable gyroscope
