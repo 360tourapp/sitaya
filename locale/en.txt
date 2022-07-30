@@ -11,8 +11,6 @@ WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.co
 LinkBehaviour_27A45F17_0FBD_32FD_4174_3D734812C030.source = https://www.google.com/maps/search/?api=1&query=-7.976092911348536%2C112.63139690737451
 LinkBehaviour_209055D5_3969_68AC_41AA_527F2DA7177A.source = https://www.youtube.com/channel/UCC_9Ir3ypCMbhk_HBbpwq7A
 WebFrame_970584DF_84FE_1C84_41A9_7A7A639F8D73.url = //www.youtube.com/embed/I91nRvfHtmI?v=I91nRvfHtmI
-LinkBehaviour_27C901A8_0FBD_D1D4_4181_9473F497C6C0.source = //www.youtube.com/embed/I91nRvfHtmI?v=I91nRvfHtmI
-WebFrame_AD97BF2E_B2D0_C88D_41E5_115FDC88983F_mobile.url = //www.youtube.com/embed/l6zXVo8b8tk?v=l6zXVo8b8tk
 
 ## Hotspot
 
@@ -43,7 +41,7 @@ audiores_2C263F45_38DC_5332_41C8_1A650AF1E699.mp3Url = media/audio_2CF3DB56_38DC
 audiores_205E4F60_38E7_F3F1_4185_E585C89A4B52.mp3Url = media/audio_2F005ADF_38E7_D2CE_41BF_75F06E57B742_en.mp3
 
 ### Image
-imlevel_20494BA9_38A4_7373_41C6_4D29EA0E6AD6.url = media/panorama_16FE7060_05B1_38B6_418B_8526A287BFB8_HS_8x2yv6pp_en.png
+imlevel_59756CEC_4DF2_3812_41C2_30B199D87DEC.url = media/panorama_16FE7060_05B1_38B6_418B_8526A287BFB8_HS_8x2yv6pp_en.png
 
 ### Title
 panorama_16C1328F_05B3_398A_4182_3B906EE68D62.label = Aula
@@ -98,14 +96,13 @@ panorama_16FFBEA6_05B1_29BA_4163_B5D7E3CC1A7F.label = Unit Kesehatan Sekolah
 ### Button
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = Google Maps
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = Google Maps
-Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
 Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
 Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = Lokasi
 Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = Lokasi
 Button_0A9F211F_0591_3889_418A_D3F4B42C6CD1.label = Malang
 Button_C56E4F20_D1CB_46C7_41E0_ECC9EF477468.label = SDIT Ahmad Yani
 Button_8A9D8BB4_84FE_3484_41E0_324364C5B2F6.label = Video Profil
-Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = Video Profil
 
 ### Image
 Image_7DB3C373_7065_34DE_41BA_CF5206137DED.url = skin/Image_7DB3C373_7065_34DE_41BA_CF5206137DED_en.png
